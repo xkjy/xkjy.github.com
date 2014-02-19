@@ -13,9 +13,9 @@ tagline: 天津市顶级教师培优班
 author :
   name : 新科教育
   email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : xkjy
+#  twitter : username
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -80,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
