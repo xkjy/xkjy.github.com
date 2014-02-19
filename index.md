@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新科教育
-tagline:顶级教师培优班
+tagline: 顶级教师培优班
 ---
 {% include JB/setup %}
 
